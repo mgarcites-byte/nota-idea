@@ -1,9 +1,9 @@
 /**
  * Nota de las ideas
  * 
- * 1.Al encender la casa poner en la pantalla LCD ¡Hola Mario!
+ * 1.Al encender la casa poner en la pantalla LCD check in
  * 
- * y un símbolo de cargando ha continuación poner casa de Mario
+ *  ha continuación poner casa de Mario
  * 
- * poner el LED en modo sube
+ * 2 Al detectar un movimiento  encender la luz y poner  al poner la poner ¡Hola Mario! y un símbolo de cargando poner el LED en modo sube y baja 3 y las demás funciones.
  */
